@@ -1,2 +1,0 @@
-# BasicToDoApp
-Created with CodeSandbox
